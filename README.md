@@ -8,7 +8,7 @@ Department of automation control and electronics
 
 Project: Application for HRV analysis
 
-Team leader: Dusanka Boskovic, PhD.
+Team leader: Dusanka Boskovic, PhD
 
 Students: Ackar Haris, BoE; Kico Iris, BoE; Anel Tahirbegovic, BoE
 
