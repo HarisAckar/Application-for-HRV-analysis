@@ -16,7 +16,7 @@ How to use:
 
 1. Open Matlab and open BSS.m or BSS.fig
 
-2. Load 'txt' file by typing his name and after that left click on 'Load!'. Example 'txt' file is also given in this repository.
+2. Load 'txt' file by typing its name and after that left click on 'Load!'. Example 'txt' file is also given in this repository.
 
 3. Now you can analyze heart rate variability using graphical analysis, frequency analysis or SD1 and SD2 decriptors.
 
