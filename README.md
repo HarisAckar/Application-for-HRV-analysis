@@ -4,7 +4,7 @@ University of Sarajevo
 
 Faculty of Electrical Engineering
 
-Department of automation control and electronics
+Department for automation control and electronics
 
 Project: Application for HRV analysis
 
